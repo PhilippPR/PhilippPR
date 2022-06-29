@@ -29,7 +29,7 @@
 <br />
 
 #### 📈 Statistics
-<img alt="Statistic" src="https://github-readme-stats.vercel.app/api?username=PhilippPR&show_icons=true&theme=radical" />
+<img alt="Statistic" src="https://github-readme-stats.vercel.app/api?username=PhilippPR&show_icons=true&theme=codeSTACKr" />
 
-[![PhilippPR's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PhilippPR&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![PhilippPR's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PhilippPR&theme=codeSTACKr)](https://philipppr.github.io)
 

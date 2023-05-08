@@ -29,7 +29,5 @@
 <br />
 
 #### 📈 Statistics
-<img alt="Statistic" src="https://github-readme-stats.vercel.app/api?username=PhilippPR&show_icons=true&theme=codeSTACKr" />
-
-[![PhilippPR's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PhilippPR&theme=codeSTACKr)](https://philipppr.github.io)
+[![PhilippPR's top Sprachen](https://github-readme-stats.vercel.app/api/top-langs/?username=PhilippPR)](https://philipppr.github.io)
 
